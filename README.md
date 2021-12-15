@@ -1,4 +1,5 @@
 # Atividade proposta no encontro remoto
+---
 Repositório voltado para atividade proposta no encontro remoto de versionamento Senai - Turma 4 - FullStack
 
 ## Utilização de Diversas Branchs
